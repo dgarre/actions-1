@@ -42,6 +42,3 @@ jobs:
             - name: Read File
               run: cat dragon.txt
 
-            - name: Deploy
-              run: deploying...
-
